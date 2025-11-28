@@ -1,0 +1,191 @@
+[
+    {
+        "keywords": [
+            "bac scientifique"
+        ],
+        "answer": "Vous pouvez intégrer :\\n• Secteur DIA : Développement Digital ou Infrastructure Digitale (niveau Technicien Spécialisé)\\n• Secteur THR : Management Hôtelier (TS), Arts Culinaires (T)"
+    },
+    {
+        "keywords": [
+            "bac littéraire"
+        ],
+        "answer": "Avec un bac littéraire, vous pouvez intégrer :\\n• Secteur THR : Management Hôtelier (TS), Arts Culinaires (T), Service de Restauration (T)"
+    },
+    {
+        "keywords": [
+            "niveau 4ème",
+            "collège"
+        ],
+        "answer": "Vous pouvez intégrer :\\n• Secteur THR : Art de la table (niveau Qualification – Q)"
+    },
+    {
+        "keywords": [
+            "digital",
+            "informatique",
+            "intelligence artificielle"
+        ],
+        "answer": "Secteur DIA propose :\\n• Développement Digital\\n• Infrastructure Digitale\\n(Niveau TS – Bac scientifique requis)"
+    },
+    {
+        "keywords": [
+            "s’inscrire",
+            "inscription",
+            "documents"
+        ],
+        "answer": "L’inscription se fait à l’ISTA2 avec les documents suivants : photocopie de CIN, diplôme, photos, et formulaire d’inscription. Vous pouvez aussi passer par le portail OFPPT."
+    },
+    {
+        "keywords": [
+            "niveau qualification",
+            "niveau Q",
+            "qualification"
+        ],
+        "answer": "Le niveau Qualification (Q) est accessible à partir du niveau 4ᵉ année du collège. Il permet d'intégrer des filières comme Art de la Table dans le secteur THR."
+    },
+    {
+        "keywords": [
+            "niveau technicien",
+            "niveau T",
+            "technicien"
+        ],
+        "answer": "Le niveau Technicien (T) est accessible après un baccalauréat ou équivalent. Il correspond à des formations comme Arts Culinaires ou Service de Restauration dans le secteur THR."
+    },
+    {
+        "keywords": [
+            "niveau technicien spécialisé",
+            "niveau TS",
+            "technicien spécialisé",
+            "TS"
+        ],
+        "answer": "Le niveau Technicien Spécialisé (TS) est accessible avec un Bac scientifique ou parfois littéraire. Les filières du secteur DIA comme Développement Digital ou Infrastructure Digitale sont à ce niveau."
+    },
+    {
+        "keywords": [
+            "quelles filières",
+            "formations",
+            "domaines"
+        ],
+        "answer": "L’ISTA2 propose deux grands secteurs de formation :\n• DIA : Digital et Intelligence Artificielle\n• THR : Tourisme et Hôtellerie"
+    },
+    {
+        "keywords": [
+            "développement digital",
+            "programmation",
+            "web",
+            "fullstack","DIA","dia"
+        ],
+        "answer": "La filière Développement Digital forme les stagiaires à la création de sites web, d'applications mobiles et au développement full-stack avec des outils modernes comme React, Laravel et Node.js."
+    },
+    {
+        "keywords": [
+            "infrastructure digitale",
+            "réseaux",
+            "systèmes",
+            "cloud"
+        ],
+        "answer": "La filière Infrastructure Digitale forme aux métiers des réseaux informatiques, des systèmes d’exploitation, de la cybersécurité et des solutions cloud."
+    },
+    {
+        "keywords": [
+            "THR",
+            "tourisme",
+            "secteur hôtelier"
+        ],
+        "answer": "Le secteur THR inclut les filières suivantes :\n• Management Hôtelier (TS)\n• Arts Culinaires (T)\n• Service de Restauration (T)\n• Art de la Table (Q)"
+    },
+    {
+        "keywords": [
+            "niveau 5ème",
+            "niveau 6ème"
+        ],
+        "answer": "À partir du niveau 5ᵉ ou 6ᵉ année collège, vous pouvez intégrer des formations de niveau Qualification (Q) comme Art de la table, si vous répondez aux conditions d’admission."
+    },
+    {
+        "keywords": [
+            "débouchés",
+            "après formation",
+            "métier",
+            "travail"
+        ],
+        "answer": "Chaque filière prépare à un métier précis :\n• Développement digital → développeur web ou mobile\n• Management hôtelier → gestionnaire d'hôtel\n• Arts culinaires → chef cuisinier ou pâtissier\n• Service restauration → serveur qualifié"
+    },
+    {
+        "keywords": [
+            "internat",
+            "hébergement",
+            "logement"
+        ],
+        "answer": "Certaines ISTA offrent des possibilités d’hébergement, mais cela dépend de la région. Il est conseillé de se renseigner directement auprès de l’administration de l’ISTA2."
+    },
+    {
+        "keywords": [
+            "langue",
+            "français",
+            "arabe",
+            "anglais"
+        ],
+        "answer": "La plupart des formations sont en français. Toutefois, des modules peuvent être enseignés en arabe ou en anglais selon la filière (ex : hôtellerie, informatique)."
+    },
+    {
+        "keywords": [
+            "devowfs",
+            "développement web full stack",
+            "fullstack",
+            "développement digital"
+        ],
+        "answer": "La filière DEVOWFS (Développement Web Full Stack) est une spécialité du secteur DIA. Elle forme les stagiaires à la création d'applications web et mobiles, incluant le front-end et le back-end avec des outils comme React, Node.js, Laravel et bases de données."
+    },
+    {
+        "keywords": [
+            "2ème année",
+            "deuxième année",
+            "2eme année",
+            "ts"
+        ],
+        "answer": "En 2ème année Technicien Spécialisé (TS), les stagiaires approfondissent leurs compétences techniques avec des projets réels, des stages en entreprise et des modules avancés dans leur spécialité (ex. frameworks, sécurité, cloud, gestion hôtelière...)."
+    },
+    {
+        "keywords": [
+            "intelligence artificielle",
+            "ai",
+            "secteur dia",
+            "digital"
+        ],
+        "answer": "Le secteur DIA (Digital et Intelligence Artificielle) propose des filières orientées vers le numérique comme Développement Web Full Stack, Infrastructure Digitale et introduction à l’IA appliquée (vision, analyse, automatisation)."
+    },
+    {
+        "keywords": [
+            "srat",
+            "service de restauration",
+            "serveur",
+            "restauration"
+        ],
+        "answer": "La filière SRAT (Service de Restauration) est de niveau Technicien (T) dans le secteur THR. Elle forme aux techniques de service en salle, relation client, dressage et hygiène dans la restauration."
+    },
+    {
+        "keywords": [
+            "ac",
+            "arts culinaires",
+            "cuisine",
+            "chef",
+            "patissier"
+        ],
+        "answer": "La filière AC (Arts Culinaires) est de niveau Technicien (T). Elle enseigne la cuisine professionnelle, la pâtisserie, la gestion de cuisine et les règles d'hygiène alimentaire dans le secteur THR."
+    },
+    {
+        "keywords": [
+            "mh",
+            "management hôtelier",
+            "gestion hôtelière"
+        ],
+        "answer": "La filière MH (Management Hôtelier) est de niveau Technicien Spécialisé (TS). Elle prépare aux métiers de la gestion d'hôtels, accueil, réservations, encadrement du personnel et administration hôtelière."
+    },
+    {
+        "keywords": [
+            "mhroh",
+            "responsable opérations hôtelières",
+            "responsable hôtel"
+        ],
+        "answer": "La filière MHROH (Management Hôtelier – Responsable Opérations Hôtelières) est une spécialisation avancée de la filière Management Hôtelier. Elle forme à la direction opérationnelle d’un établissement hôtelier."
+    }
+]

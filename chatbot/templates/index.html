@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Orientation Bot – ISTA 2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+        }
+        .chat-container {
+            width: 60%;
+            margin: auto;
+            border: 1px solid #ccc;
+            background: #ffffff;
+            padding: 15px;
+            height: 400px;
+            overflow-y: scroll;
+            margin-top: 20px;
+        }
+        .message {
+            padding: 10px;
+            border-radius: 10px;
+            margin: 5px 0;
+            max-width: 70%;
+            clear: both;
+        }
+        .user-message {
+            background-color: #d4f7d4;
+            float: right;
+            text-align: right;
+        }
+        .bot-message {
+            background-color: #e0e0e0;
+            float: left;
+            text-align: left;
+        }
+        .form-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        input[type="text"] {
+            width: 60%;
+            padding: 10px;
+            font-size: 1em;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align: center;">Bienvenue sur Orientation Bot – ISTA 2</h2>
+
+    <div class="chat-container">
+        {% for sender, message in history %}
+            <div class="message {% if sender == 'Vous' %}user-message{% else %}bot-message{% endif %}">
+                <strong>{{ sender }}:</strong><br>{{ message }}
+            </div>
+        {% endfor %}
+    </div>
+
+    <form method="post" class="form-container">
+        <input type="text" name="question" placeholder="Posez votre question..." required>
+        <button type="submit">Envoyer</button>
+    </form>
+
+    <script>
+        // Scroll automatiquement en bas du chat
+        window.onload = function () {
+            var chatContainer = document.querySelector(".chat-container");
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        };
+    </script>
+</body>
+</html>
